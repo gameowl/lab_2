@@ -216,3 +216,36 @@ img{
 html{
     scroll-behavior: smooth;
 }
+
+.sugestie{
+    background-color: darkorange;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.corner_x{
+    text-align: right;
+    cursor: pointer;
+    color: yellow;
+}
+
+.learn{
+    width: 100%;
+    text-align: center;
+
+}
+
+.learn-text{
+    border-radius: 20px;
+    background-color: #FFB319;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 10px;
+
+}
+
+.learn a{
+    color: black;
+    text-decoration: none;
+}
